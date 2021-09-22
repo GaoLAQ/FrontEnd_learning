@@ -2,36 +2,36 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "C:\\\\Users\\\\haoxiangg\\\\projects\\\\Training\\\\Nuxt\\\\pages\\\\about.vue",
+    "component": "/Users/hg/projects/Learning/Nuxtjs/pages/about.vue",
     "chunkName": "pages/about",
-    "_name": "_79e86e9e"
+    "_name": "_45c356a3"
   },
   {
     "name": "Jokes",
     "path": "/Jokes",
-    "component": "C:\\\\Users\\\\haoxiangg\\\\projects\\\\Training\\\\Nuxt\\\\pages\\\\Jokes\\\\index.vue",
+    "component": "/Users/hg/projects/Learning/Nuxtjs/pages/Jokes/index.vue",
     "chunkName": "pages/Jokes/index",
-    "_name": "_5f55d50a"
+    "_name": "_5d50a56d"
   },
   {
     "name": "todo",
     "path": "/todo",
-    "component": "C:\\\\Users\\\\haoxiangg\\\\projects\\\\Training\\\\Nuxt\\\\pages\\\\todo.vue",
+    "component": "/Users/hg/projects/Learning/Nuxtjs/pages/todo.vue",
     "chunkName": "pages/todo",
-    "_name": "_04ba955c"
+    "_name": "_3ba8a120"
   },
   {
     "name": "Jokes-id",
     "path": "/Jokes/:id",
-    "component": "C:\\\\Users\\\\haoxiangg\\\\projects\\\\Training\\\\Nuxt\\\\pages\\\\Jokes\\\\_id\\\\index.vue",
+    "component": "/Users/hg/projects/Learning/Nuxtjs/pages/Jokes/_id/index.vue",
     "chunkName": "pages/Jokes/_id/index",
-    "_name": "_77f00e50"
+    "_name": "_71617c50"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\haoxiangg\\\\projects\\\\Training\\\\Nuxt\\\\pages\\\\index.vue",
+    "component": "/Users/hg/projects/Learning/Nuxtjs/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_3a78b914"
+    "_name": "_657b3168"
   }
 ]
