@@ -1,0 +1,37 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\haoxiangg\\\\projects\\\\Training\\\\Nuxt\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_79e86e9e"
+  },
+  {
+    "name": "Jokes",
+    "path": "/Jokes",
+    "component": "C:\\\\Users\\\\haoxiangg\\\\projects\\\\Training\\\\Nuxt\\\\pages\\\\Jokes\\\\index.vue",
+    "chunkName": "pages/Jokes/index",
+    "_name": "_5f55d50a"
+  },
+  {
+    "name": "todo",
+    "path": "/todo",
+    "component": "C:\\\\Users\\\\haoxiangg\\\\projects\\\\Training\\\\Nuxt\\\\pages\\\\todo.vue",
+    "chunkName": "pages/todo",
+    "_name": "_04ba955c"
+  },
+  {
+    "name": "Jokes-id",
+    "path": "/Jokes/:id",
+    "component": "C:\\\\Users\\\\haoxiangg\\\\projects\\\\Training\\\\Nuxt\\\\pages\\\\Jokes\\\\_id\\\\index.vue",
+    "chunkName": "pages/Jokes/_id/index",
+    "_name": "_77f00e50"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\haoxiangg\\\\projects\\\\Training\\\\Nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3a78b914"
+  }
+]
