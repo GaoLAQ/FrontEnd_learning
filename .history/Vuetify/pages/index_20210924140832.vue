@@ -69,7 +69,7 @@
     true-value="yes"
     false-value="no"/>
     {{toggle}}
-    <a v-bind:['foo'+bar]="url"> </a> 
+    <a v-bind:[attributeName]="url"> </a> 
   </v-app>
   
 </template>

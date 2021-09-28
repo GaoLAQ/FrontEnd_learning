@@ -68,17 +68,13 @@
     v-model="toggle"
     true-value="yes"
     false-value="no"/>
-    {{toggle}}
-    <a v-bind:['foo'+bar]="url"> </a> 
   </v-app>
-  
 </template>
 
 <script>
 export default {
   data() {
     return {
-      attributeName: 'click',
       toggle:'',
       projects: [
         {

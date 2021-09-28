@@ -69,7 +69,7 @@
     true-value="yes"
     false-value="no"/>
     {{toggle}}
-    <a v-bind:['foo'+bar]="url"> </a> 
+    <a v-bind:[attributeName]="https://www.google.com/"> </a> 
   </v-app>
   
 </template>
@@ -78,7 +78,7 @@
 export default {
   data() {
     return {
-      attributeName: 'click',
+      attributeName: href,
       toggle:'',
       projects: [
         {
