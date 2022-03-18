@@ -63,13 +63,7 @@
         <v-divider></v-divider>
       </v-card>
     </v-container>
-    <input 
-    type="checkbox"
-    v-model="toggle"
-    true-value="yes"
-    false-value="no"/>
-    {{toggle}}
-    <a v-bind:['foo'+bar]="url"> </a> 
+
   </v-app>
   
 </template>
